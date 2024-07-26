@@ -1,0 +1,6 @@
+[submodule "Assets/XiheFramework"]
+	path = Assets/XiheFramework
+	url = https://github.com/second-realm-studio/XiheFramework.git
+[submodule "Assets/XiheRendering"]
+	path = Assets/XiheRendering
+	url = https://github.com/sky-haihai/XiheRendering.git
